@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--Embrding php logic into html-->
+<!--Embeding php logic into html-->
 <html>
 <head>
     <title>Complex PHP Form Handling</title>
